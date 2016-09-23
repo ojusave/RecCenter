@@ -1,0 +1,60 @@
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\SmartRecreational.DAL\bin\Debug\LURecCenter.DAL.dll.config
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\SmartRecreational.DAL\bin\Debug\LURecCenter.DAL.dll
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\SmartRecreational.DAL\bin\Debug\LURecCenter.DAL.pdb
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\SmartRecreational.DAL\bin\Debug\EntityFramework.dll
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\SmartRecreational.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\SmartRecreational.DAL\bin\Debug\LURecCenter.Entity.dll
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\SmartRecreational.DAL\bin\Debug\LURecCenter.Entity.pdb
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\SmartRecreational.DAL\bin\Debug\EntityFramework.xml
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\SmartRecreational.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\SmartRecreational.DAL\obj\Debug\LURecCenter.DAL.csprojResolveAssemblyReference.cache
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\SmartRecreational.DAL\obj\Debug\LURecCenter.DAL.dll
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\SmartRecreational.DAL\obj\Debug\LURecCenter.DAL.pdb
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\SmartRecreational.DAL\bin\Debug\LURecCenter.DAL.dll.config
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\SmartRecreational.DAL\bin\Debug\LURecCenter.DAL.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\SmartRecreational.DAL\bin\Debug\LURecCenter.DAL.pdb
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\SmartRecreational.DAL\bin\Debug\EntityFramework.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\SmartRecreational.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\SmartRecreational.DAL\bin\Debug\LURecCenter.Entity.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\SmartRecreational.DAL\bin\Debug\LURecCenter.Entity.pdb
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\SmartRecreational.DAL\bin\Debug\EntityFramework.xml
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\SmartRecreational.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\SmartRecreational.DAL\obj\Debug\LURecCenter.DAL.csprojResolveAssemblyReference.cache
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\SmartRecreational.DAL\obj\Debug\LURecCenter.DAL.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\SmartRecreational.DAL\obj\Debug\LURecCenter.DAL.pdb
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\SmartRecreational.DAL\bin\Debug\LURecCenter.DAL.dll.config
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\SmartRecreational.DAL\bin\Debug\LURecCenter.DAL.dll
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\SmartRecreational.DAL\bin\Debug\LURecCenter.DAL.pdb
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\SmartRecreational.DAL\bin\Debug\EntityFramework.dll
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\SmartRecreational.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\SmartRecreational.DAL\bin\Debug\LURecCenter.Entity.dll
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\SmartRecreational.DAL\bin\Debug\LURecCenter.Entity.pdb
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\SmartRecreational.DAL\bin\Debug\EntityFramework.xml
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\SmartRecreational.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\SmartRecreational.DAL\obj\Debug\LURecCenter.DAL.csprojResolveAssemblyReference.cache
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\SmartRecreational.DAL\obj\Debug\LURecCenter.DAL.dll
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\SmartRecreational.DAL\obj\Debug\LURecCenter.DAL.pdb
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreational.DAL\bin\Debug\LURecCenter.DAL.dll.config
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreational.DAL\bin\Debug\LURecCenter.DAL.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreational.DAL\bin\Debug\LURecCenter.DAL.pdb
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreational.DAL\bin\Debug\EntityFramework.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreational.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreational.DAL\bin\Debug\LURecCenter.Entity.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreational.DAL\bin\Debug\LURecCenter.Entity.pdb
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreational.DAL\bin\Debug\EntityFramework.xml
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreational.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreational.DAL\obj\Debug\LURecCenter.DAL.csprojResolveAssemblyReference.cache
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreational.DAL\obj\Debug\LURecCenter.DAL.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreational.DAL\obj\Debug\LURecCenter.DAL.pdb
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\SmartRecreational.DAL\obj\Debug\LURecCenter.DAL.csprojResolveAssemblyReference.cache
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\SmartRecreational.DAL\obj\Debug\LURecCenter.DAL.dll
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\SmartRecreational.DAL\obj\Debug\LURecCenter.DAL.pdb
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\SmartRecreational.DAL\bin\Debug\LURecCenter.DAL.dll.config
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\SmartRecreational.DAL\bin\Debug\LURecCenter.DAL.dll
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\SmartRecreational.DAL\bin\Debug\LURecCenter.DAL.pdb
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\SmartRecreational.DAL\bin\Debug\EntityFramework.dll
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\SmartRecreational.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\SmartRecreational.DAL\bin\Debug\LURecCenter.Entity.dll
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\SmartRecreational.DAL\bin\Debug\LURecCenter.Entity.pdb
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\SmartRecreational.DAL\bin\Debug\EntityFramework.xml
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\SmartRecreational.DAL\bin\Debug\EntityFramework.SqlServer.xml

@@ -1,0 +1,5 @@
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreational.Entity\bin\Release\LURecCenter.Entity.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreational.Entity\bin\Release\LURecCenter.Entity.pdb
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreational.Entity\obj\Release\LURecCenter.Entity.csprojResolveAssemblyReference.cache
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreational.Entity\obj\Release\LURecCenter.Entity.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreational.Entity\obj\Release\LURecCenter.Entity.pdb

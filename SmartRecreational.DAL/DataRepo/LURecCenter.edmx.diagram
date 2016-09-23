@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="b361684021404eaba8604c889c47b6d0" Name="Diagram1" ZoomLevel="82">
+        <EntityTypeShape EntityType="LURecCenterModel.tblEquipment" Width="1.5" PointX="5.25" PointY="8.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="LURecCenterModel.TblIssuedEquipment" Width="1.5" PointX="7.5" PointY="2.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="LURecCenterModel.TblLoggedInUser" Width="1.5" PointX="7.5" PointY="7" IsExpanded="true" />
+        <EntityTypeShape EntityType="LURecCenterModel.tblMasterUserRole" Width="1.5" PointX="0.75" PointY="3.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="LURecCenterModel.tblMstrDepartment" Width="1.5" PointX="9.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="LURecCenterModel.tblMstrEquipmentType" Width="1.5" PointX="3" PointY="9.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="LURecCenterModel.TblmstrUserType" Width="1.5" PointX="9.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="LURecCenterModel.TblPerson" Width="1.5" PointX="3" PointY="2.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="LURecCenterModel.TblShift" Width="1.5" PointX="9.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="LURecCenterModel.TblUser" Width="1.5" PointX="5.25" PointY="2.5" IsExpanded="true" />
+        <AssociationConnector Association="LURecCenterModel.FK_IssuedEquipment_tblEquipment" ManuallyRouted="false" />
+        <AssociationConnector Association="LURecCenterModel.FK_tblEquipment_tblMstrEquipmentType" ManuallyRouted="false" />
+        <AssociationConnector Association="LURecCenterModel.FK_IssuedEquipment_TblUser" ManuallyRouted="false" />
+        <AssociationConnector Association="LURecCenterModel.FK_TblLoggedInUser_TblUser" ManuallyRouted="false" />
+        <AssociationConnector Association="LURecCenterModel.FK_TblPerson_tblMasterUserRoles" ManuallyRouted="false" />
+        <AssociationConnector Association="LURecCenterModel.FK_TblUser_tblMasterUserRoles" ManuallyRouted="false" />
+        <AssociationConnector Association="LURecCenterModel.FK_TblUser_TblPerson" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="LURecCenterModel.TblWritesUp" Width="1.5" PointX="7.375" PointY="10.75" />
+        <EntityTypeShape EntityType="LURecCenterModel.TblRequestedEquipment" Width="1.5" PointX="7.375" PointY="10.75" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

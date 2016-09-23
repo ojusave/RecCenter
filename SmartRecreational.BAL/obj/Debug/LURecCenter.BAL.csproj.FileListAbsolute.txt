@@ -1,0 +1,57 @@
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\SmartRecreational.BAL\obj\Debug\LURecCenter.BAL.csprojResolveAssemblyReference.cache
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\SmartRecreational.BAL\bin\Debug\LURecCenter.BAL.dll
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\SmartRecreational.BAL\bin\Debug\LURecCenter.BAL.pdb
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\SmartRecreational.BAL\bin\Debug\LURecCenter.DAL.dll
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\SmartRecreational.BAL\bin\Debug\LURecCenter.Entity.dll
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\SmartRecreational.BAL\bin\Debug\EntityFramework.dll
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\SmartRecreational.BAL\bin\Debug\LURecCenter.DAL.pdb
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\SmartRecreational.BAL\bin\Debug\LURecCenter.Entity.pdb
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\SmartRecreational.BAL\bin\Debug\EntityFramework.xml
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\SmartRecreational.BAL\obj\Debug\LURecCenter.BAL.dll
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\SmartRecreational.BAL\obj\Debug\LURecCenter.BAL.pdb
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\SmartRecreational.BAL\bin\Debug\LURecCenter.BAL.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\SmartRecreational.BAL\bin\Debug\LURecCenter.BAL.pdb
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\SmartRecreational.BAL\bin\Debug\LURecCenter.DAL.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\SmartRecreational.BAL\bin\Debug\LURecCenter.Entity.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\SmartRecreational.BAL\bin\Debug\EntityFramework.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\SmartRecreational.BAL\bin\Debug\LURecCenter.DAL.pdb
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\SmartRecreational.BAL\bin\Debug\LURecCenter.Entity.pdb
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\SmartRecreational.BAL\bin\Debug\EntityFramework.xml
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\SmartRecreational.BAL\obj\Debug\LURecCenter.BAL.csprojResolveAssemblyReference.cache
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\SmartRecreational.BAL\obj\Debug\LURecCenter.BAL.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\SmartRecreational.BAL\obj\Debug\LURecCenter.BAL.pdb
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\SmartRecreational.BAL\bin\Debug\LURecCenter.BAL.dll
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\SmartRecreational.BAL\bin\Debug\LURecCenter.BAL.pdb
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\SmartRecreational.BAL\bin\Debug\LURecCenter.DAL.dll
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\SmartRecreational.BAL\bin\Debug\LURecCenter.Entity.dll
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\SmartRecreational.BAL\bin\Debug\EntityFramework.dll
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\SmartRecreational.BAL\bin\Debug\LURecCenter.DAL.pdb
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\SmartRecreational.BAL\bin\Debug\LURecCenter.Entity.pdb
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\SmartRecreational.BAL\bin\Debug\EntityFramework.xml
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\SmartRecreational.BAL\obj\Debug\LURecCenter.BAL.csprojResolveAssemblyReference.cache
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\SmartRecreational.BAL\obj\Debug\LURecCenter.BAL.dll
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\SmartRecreational.BAL\obj\Debug\LURecCenter.BAL.pdb
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreational.BAL\bin\Debug\LURecCenter.BAL.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreational.BAL\bin\Debug\LURecCenter.BAL.pdb
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreational.BAL\bin\Debug\LURecCenter.DAL.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreational.BAL\bin\Debug\LURecCenter.Entity.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreational.BAL\bin\Debug\LURecCenter.DAL.pdb
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreational.BAL\bin\Debug\LURecCenter.Entity.pdb
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreational.BAL\obj\Debug\LURecCenter.BAL.csprojResolveAssemblyReference.cache
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreational.BAL\obj\Debug\LURecCenter.BAL.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreational.BAL\obj\Debug\LURecCenter.BAL.pdb
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreational.BAL\bin\Debug\EntityFramework.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreational.BAL\bin\Debug\EntityFramework.xml
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\SmartRecreational.BAL\bin\Debug\LURecCenter.BAL.dll
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\SmartRecreational.BAL\bin\Debug\LURecCenter.BAL.pdb
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\SmartRecreational.BAL\bin\Debug\LURecCenter.DAL.dll
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\SmartRecreational.BAL\bin\Debug\LURecCenter.Entity.dll
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\SmartRecreational.BAL\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\SmartRecreational.BAL\bin\Debug\EntityFramework.dll
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\SmartRecreational.BAL\bin\Debug\LURecCenter.DAL.pdb
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\SmartRecreational.BAL\bin\Debug\LURecCenter.Entity.pdb
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\SmartRecreational.BAL\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\SmartRecreational.BAL\bin\Debug\EntityFramework.xml
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\SmartRecreational.BAL\obj\Debug\LURecCenter.BAL.csprojResolveAssemblyReference.cache
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\SmartRecreational.BAL\obj\Debug\LURecCenter.BAL.dll
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\SmartRecreational.BAL\obj\Debug\LURecCenter.BAL.pdb

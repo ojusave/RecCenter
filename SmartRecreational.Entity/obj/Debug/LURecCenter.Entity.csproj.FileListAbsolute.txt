@@ -1,0 +1,25 @@
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\SmartRecreational.Entity\bin\Debug\LURecCenter.Entity.dll
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\SmartRecreational.Entity\bin\Debug\LURecCenter.Entity.pdb
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\SmartRecreational.Entity\obj\Debug\LURecCenter.Entity.csprojResolveAssemblyReference.cache
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\SmartRecreational.Entity\obj\Debug\LURecCenter.Entity.dll
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\SmartRecreational.Entity\obj\Debug\LURecCenter.Entity.pdb
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\SmartRecreational.Entity\bin\Debug\LURecCenter.Entity.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\SmartRecreational.Entity\bin\Debug\LURecCenter.Entity.pdb
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\SmartRecreational.Entity\obj\Debug\LURecCenter.Entity.csprojResolveAssemblyReference.cache
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\SmartRecreational.Entity\obj\Debug\LURecCenter.Entity.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\SmartRecreational.Entity\obj\Debug\LURecCenter.Entity.pdb
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\SmartRecreational.Entity\bin\Debug\LURecCenter.Entity.dll
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\SmartRecreational.Entity\bin\Debug\LURecCenter.Entity.pdb
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\SmartRecreational.Entity\obj\Debug\LURecCenter.Entity.dll
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\SmartRecreational.Entity\obj\Debug\LURecCenter.Entity.pdb
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\SmartRecreational.Entity\obj\Debug\LURecCenter.Entity.csprojResolveAssemblyReference.cache
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreational.Entity\bin\Debug\LURecCenter.Entity.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreational.Entity\bin\Debug\LURecCenter.Entity.pdb
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreational.Entity\obj\Debug\LURecCenter.Entity.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreational.Entity\obj\Debug\LURecCenter.Entity.pdb
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreational.Entity\obj\Debug\LURecCenter.Entity.csprojResolveAssemblyReference.cache
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\SmartRecreational.Entity\obj\Debug\LURecCenter.Entity.csprojResolveAssemblyReference.cache
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\SmartRecreational.Entity\obj\Debug\LURecCenter.Entity.dll
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\SmartRecreational.Entity\obj\Debug\LURecCenter.Entity.pdb
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\SmartRecreational.Entity\bin\Debug\LURecCenter.Entity.dll
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\SmartRecreational.Entity\bin\Debug\LURecCenter.Entity.pdb

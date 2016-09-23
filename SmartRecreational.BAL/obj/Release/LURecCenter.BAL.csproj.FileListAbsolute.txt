@@ -1,0 +1,11 @@
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreational.BAL\bin\Release\LURecCenter.BAL.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreational.BAL\bin\Release\LURecCenter.BAL.pdb
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreational.BAL\bin\Release\LURecCenter.DAL.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreational.BAL\bin\Release\LURecCenter.Entity.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreational.BAL\bin\Release\EntityFramework.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreational.BAL\bin\Release\LURecCenter.DAL.pdb
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreational.BAL\bin\Release\LURecCenter.Entity.pdb
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreational.BAL\bin\Release\EntityFramework.xml
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreational.BAL\obj\Release\LURecCenter.BAL.csprojResolveAssemblyReference.cache
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreational.BAL\obj\Release\LURecCenter.BAL.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreational.BAL\obj\Release\LURecCenter.BAL.pdb

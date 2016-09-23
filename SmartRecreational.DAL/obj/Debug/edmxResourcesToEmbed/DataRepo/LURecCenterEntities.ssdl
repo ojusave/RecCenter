@@ -1,0 +1,285 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="LURecCenterModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="tblEquipment">
+    <Key>
+      <PropertyRef Name="EquipmentID" />
+    </Key>
+    <Property Name="EquipmentID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="EquipmentName" Type="varchar" MaxLength="150" />
+    <Property Name="EquipmentBARCode" Type="nvarchar" MaxLength="150" />
+    <Property Name="EquipmentBrand" Type="nvarchar" MaxLength="50" />
+    <Property Name="EquipmentType" Type="int" />
+    <Property Name="EquipmentAddDate" Type="datetime" />
+    <Property Name="EquipmentUserCount" Type="bigint" />
+    <Property Name="EquipmentPrice" Type="money" />
+    <Property Name="CreatedBy" Type="int" />
+    <Property Name="CreatedON" Type="datetime" />
+    <Property Name="IsActive" Type="bit" />
+  </EntityType>
+  <EntityType Name="TblIssuedEquipment">
+    <Key>
+      <PropertyRef Name="IssueID" />
+    </Key>
+    <Property Name="IssueID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="EquipmentID" Type="int" Nullable="false" />
+    <Property Name="UserID" Type="int" />
+    <Property Name="IssueOn" Type="datetime" />
+    <Property Name="ReturnOn" Type="datetime" />
+    <Property Name="IsReturn" Type="bit" />
+    <Property Name="IssueComments" Type="nvarchar" MaxLength="550" />
+    <Property Name="RetComments" Type="nvarchar" MaxLength="550" />
+    <Property Name="Attribute1" Type="nvarchar" MaxLength="550" />
+  </EntityType>
+  <EntityType Name="TblLoggedInUser">
+    <Key>
+      <PropertyRef Name="SessionId" />
+    </Key>
+    <Property Name="SessionId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Userid" Type="int" />
+    <Property Name="UserName" Type="nvarchar" MaxLength="50" />
+    <Property Name="LoginTime" Type="time" Precision="7" />
+    <Property Name="LoginDate" Type="datetime" />
+    <Property Name="LoggedOuttime" Type="time" Precision="7" />
+    <Property Name="LoggedOutdate" Type="datetime" />
+  </EntityType>
+  <EntityType Name="tblMasterUserRoles">
+    <Key>
+      <PropertyRef Name="RoleId" />
+    </Key>
+    <Property Name="RoleId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="RoleName" Type="nvarchar" MaxLength="50" />
+    <Property Name="IsActive" Type="bit" />
+  </EntityType>
+  <EntityType Name="tblMstrDepartment">
+    <Key>
+      <PropertyRef Name="DeptId" />
+    </Key>
+    <Property Name="DeptId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="DeptName" Type="varchar" MaxLength="150" />
+    <Property Name="IsActive" Type="bit" />
+  </EntityType>
+  <EntityType Name="tblMstrEquipmentType">
+    <Key>
+      <PropertyRef Name="TypeID" />
+    </Key>
+    <Property Name="TypeID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TypeName" Type="nvarchar" MaxLength="50" />
+    <Property Name="IsActive" Type="bit" />
+  </EntityType>
+  <EntityType Name="TblmstrUserType">
+    <Key>
+      <PropertyRef Name="TypeID" />
+    </Key>
+    <Property Name="TypeID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TypeName" Type="nvarchar" MaxLength="50" />
+    <Property Name="IsActive" Type="bit" />
+  </EntityType>
+  <EntityType Name="TblPerson">
+    <Key>
+      <PropertyRef Name="PersonId" />
+    </Key>
+    <Property Name="PersonId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="FirstName" Type="nvarchar" MaxLength="150" />
+    <Property Name="LastName" Type="nvarchar" MaxLength="150" />
+    <Property Name="Email" Type="nvarchar" MaxLength="150" />
+    <Property Name="Address" Type="nvarchar" MaxLength="250" />
+    <Property Name="PostalCode" Type="nvarchar" MaxLength="150" />
+    <Property Name="DOB" Type="datetime" />
+    <Property Name="PersonType" Type="int" />
+    <Property Name="CreatedBy" Type="int" />
+    <Property Name="Createdon" Type="datetime" />
+    <Property Name="IsActive" Type="bit" />
+    <Property Name="IdNumber" Type="nvarchar" MaxLength="100" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6013: The table/view 'LURecCenter.dbo.tblRequestedEquipment' does not have a primary key defined and no valid primary key could be inferred. This table/view has been excluded. To use the entity, you will need to review your schema, add the correct keys, and uncomment it.
+        <EntityType Name="tblRequestedEquipment">
+          <Property Name="EmailId" Type="varchar" MaxLength="50" />
+          <Property Name="Text" Type="nvarchar(max)" />
+        </EntityType>-->
+  <EntityType Name="TblShift">
+    <Key>
+      <PropertyRef Name="ShiftId" />
+    </Key>
+    <Property Name="ShiftId" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ShiftName" Type="nvarchar" MaxLength="250" />
+    <Property Name="ShiftComment" Type="nvarchar" MaxLength="350" />
+    <Property Name="ShiftDate" Type="datetime" />
+    <Property Name="Avilable" Type="bit" />
+    <Property Name="PickedByUser" Type="int" />
+    <Property Name="PickedOn" Type="datetime" />
+    <Property Name="CreatedBy" Type="int" />
+    <Property Name="Shiftto" Type="nvarchar" MaxLength="50" />
+    <Property Name="Shiftfrom" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="TblUser">
+    <Key>
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="UserId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserName" Type="nvarchar" MaxLength="50" />
+    <Property Name="Password" Type="nvarchar" MaxLength="50" />
+    <Property Name="Email" Type="nvarchar" MaxLength="50" />
+    <Property Name="Phone" Type="nvarchar" MaxLength="50" />
+    <Property Name="PersonID" Type="int" />
+    <Property Name="CreatedBy" Type="int" />
+    <Property Name="CreatedOn" Type="datetime" />
+    <Property Name="IsActive" Type="bit" />
+    <Property Name="RoleID" Type="int" />
+  </EntityType>
+  <EntityType Name="TblWritesUp">
+    <Key>
+      <PropertyRef Name="WritesupID" />
+    </Key>
+    <Property Name="WritesupID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="WritesUpText" Type="nvarchar(max)" />
+    <Property Name="CreatedBy" Type="int" />
+    <Property Name="IsActive" Type="bit" />
+    <Property Name="CreatedOn" Type="datetime" />
+    <Property Name="TOUser" Type="nvarchar" MaxLength="150" />
+  </EntityType>
+  <Association Name="FK_IssuedEquipment_tblEquipment">
+    <End Role="tblEquipment" Type="Self.tblEquipment" Multiplicity="1" />
+    <End Role="TblIssuedEquipment" Type="Self.TblIssuedEquipment" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblEquipment">
+        <PropertyRef Name="EquipmentID" />
+      </Principal>
+      <Dependent Role="TblIssuedEquipment">
+        <PropertyRef Name="EquipmentID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_IssuedEquipment_TblUser">
+    <End Role="TblUser" Type="Self.TblUser" Multiplicity="0..1" />
+    <End Role="TblIssuedEquipment" Type="Self.TblIssuedEquipment" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TblUser">
+        <PropertyRef Name="UserId" />
+      </Principal>
+      <Dependent Role="TblIssuedEquipment">
+        <PropertyRef Name="UserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tblEquipment_tblMstrEquipmentType">
+    <End Role="tblMstrEquipmentType" Type="Self.tblMstrEquipmentType" Multiplicity="0..1" />
+    <End Role="tblEquipment" Type="Self.tblEquipment" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblMstrEquipmentType">
+        <PropertyRef Name="TypeID" />
+      </Principal>
+      <Dependent Role="tblEquipment">
+        <PropertyRef Name="EquipmentType" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TblLoggedInUser_TblUser">
+    <End Role="TblUser" Type="Self.TblUser" Multiplicity="0..1" />
+    <End Role="TblLoggedInUser" Type="Self.TblLoggedInUser" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TblUser">
+        <PropertyRef Name="UserId" />
+      </Principal>
+      <Dependent Role="TblLoggedInUser">
+        <PropertyRef Name="Userid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TblPerson_tblMasterUserRoles">
+    <End Role="tblMasterUserRoles" Type="Self.tblMasterUserRoles" Multiplicity="0..1" />
+    <End Role="TblPerson" Type="Self.TblPerson" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblMasterUserRoles">
+        <PropertyRef Name="RoleId" />
+      </Principal>
+      <Dependent Role="TblPerson">
+        <PropertyRef Name="PersonType" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TblUser_tblMasterUserRoles">
+    <End Role="tblMasterUserRoles" Type="Self.tblMasterUserRoles" Multiplicity="0..1" />
+    <End Role="TblUser" Type="Self.TblUser" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblMasterUserRoles">
+        <PropertyRef Name="RoleId" />
+      </Principal>
+      <Dependent Role="TblUser">
+        <PropertyRef Name="RoleID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TblUser_TblPerson">
+    <End Role="TblPerson" Type="Self.TblPerson" Multiplicity="0..1" />
+    <End Role="TblUser" Type="Self.TblUser" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TblPerson">
+        <PropertyRef Name="PersonId" />
+      </Principal>
+      <Dependent Role="TblUser">
+        <PropertyRef Name="PersonID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Function Name="SpGetIssuedequipment" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="message" Type="varchar" Mode="InOut" />
+    <Parameter Name="messageCode" Type="int" Mode="InOut" />
+  </Function>
+  <Function Name="SpInsertUser" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="Firstname" Type="varchar" Mode="In" />
+    <Parameter Name="Lastname" Type="varchar" Mode="In" />
+    <Parameter Name="dateofbirth" Type="datetime" Mode="In" />
+    <Parameter Name="UserName" Type="varchar" Mode="In" />
+    <Parameter Name="Password" Type="varchar" Mode="In" />
+    <Parameter Name="address" Type="varchar" Mode="In" />
+    <Parameter Name="pincode" Type="varchar" Mode="In" />
+    <Parameter Name="phone" Type="varchar" Mode="In" />
+    <Parameter Name="emailid" Type="varchar" Mode="In" />
+    <Parameter Name="RoleID" Type="int" Mode="In" />
+    <Parameter Name="IdNumber" Type="varchar" Mode="In" />
+    <Parameter Name="message" Type="varchar" Mode="InOut" />
+    <Parameter Name="messageCode" Type="int" Mode="InOut" />
+  </Function>
+  <EntityContainer Name="LURecCenterModelStoreContainer">
+    <EntitySet Name="tblEquipment" EntityType="Self.tblEquipment" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TblIssuedEquipment" EntityType="Self.TblIssuedEquipment" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TblLoggedInUser" EntityType="Self.TblLoggedInUser" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tblMasterUserRoles" EntityType="Self.tblMasterUserRoles" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tblMstrDepartment" EntityType="Self.tblMstrDepartment" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tblMstrEquipmentType" EntityType="Self.tblMstrEquipmentType" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TblmstrUserType" EntityType="Self.TblmstrUserType" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TblPerson" EntityType="Self.TblPerson" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TblShift" EntityType="Self.TblShift" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TblUser" EntityType="Self.TblUser" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TblWritesUp" EntityType="Self.TblWritesUp" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_IssuedEquipment_tblEquipment" Association="Self.FK_IssuedEquipment_tblEquipment">
+      <End Role="tblEquipment" EntitySet="tblEquipment" />
+      <End Role="TblIssuedEquipment" EntitySet="TblIssuedEquipment" />
+    </AssociationSet>
+    <AssociationSet Name="FK_IssuedEquipment_TblUser" Association="Self.FK_IssuedEquipment_TblUser">
+      <End Role="TblUser" EntitySet="TblUser" />
+      <End Role="TblIssuedEquipment" EntitySet="TblIssuedEquipment" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tblEquipment_tblMstrEquipmentType" Association="Self.FK_tblEquipment_tblMstrEquipmentType">
+      <End Role="tblMstrEquipmentType" EntitySet="tblMstrEquipmentType" />
+      <End Role="tblEquipment" EntitySet="tblEquipment" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TblLoggedInUser_TblUser" Association="Self.FK_TblLoggedInUser_TblUser">
+      <End Role="TblUser" EntitySet="TblUser" />
+      <End Role="TblLoggedInUser" EntitySet="TblLoggedInUser" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TblPerson_tblMasterUserRoles" Association="Self.FK_TblPerson_tblMasterUserRoles">
+      <End Role="tblMasterUserRoles" EntitySet="tblMasterUserRoles" />
+      <End Role="TblPerson" EntitySet="TblPerson" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TblUser_tblMasterUserRoles" Association="Self.FK_TblUser_tblMasterUserRoles">
+      <End Role="tblMasterUserRoles" EntitySet="tblMasterUserRoles" />
+      <End Role="TblUser" EntitySet="TblUser" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TblUser_TblPerson" Association="Self.FK_TblUser_TblPerson">
+      <End Role="TblPerson" EntitySet="TblPerson" />
+      <End Role="TblUser" EntitySet="TblUser" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

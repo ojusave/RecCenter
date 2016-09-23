@@ -1,0 +1,18 @@
+﻿
+#contentWindow { 
+   
+    background-attachment: fixed;
+}
+#BodyContent {
+    background-image: url('../Images/Lamar.jpg');
+    background-attachment: inherit;
+}
+.jumbotron {
+    background-image: url('../Images/Lamar.jpg');
+    background-attachment: local;
+    color: goldenrod;
+}
+.jumbotron h1
+{
+    color: goldenrod;
+}

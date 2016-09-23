@@ -1,0 +1,512 @@
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\ApplicationInsights.config
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\roslyn\csc.exe
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\roslyn\vbc.exe
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\LURecCenterWeb.UI.dll.config
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\LURecCenterWeb.UI.dll
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\LURecCenterWeb.UI.pdb
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Antlr3.Runtime.dll
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\EntityFramework.dll
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\LURecCenter.BAL.dll
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\LURecCenter.Entity.dll
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AI.Web.dll
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.dll
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.dll
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Newtonsoft.Json.dll
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Owin.dll
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\System.Web.Optimization.dll
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\System.Web.Providers.dll
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\WebGrease.dll
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\LURecCenter.DAL.dll
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\LURecCenter.BAL.pdb
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\LURecCenter.Entity.pdb
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AI.Web.xml
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\System.Web.Optimization.xml
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Antlr3.Runtime.pdb
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Newtonsoft.Json.xml
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\EntityFramework.xml
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\System.Web.Providers.xml
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.xml
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.xml
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\bin\LURecCenter.DAL.pdb
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\obj\Debug\LURecCenterWeb.UI.csprojResolveAssemblyReference.cache
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\obj\Debug\LURecCenterWeb.UI.dll
+C:\Users\ojusa_000\Downloads\New folder (2)\SmartRecreationalSOL\LURecCenterWeb.UI\obj\Debug\LURecCenterWeb.UI.pdb
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\ApplicationInsights.config
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\roslyn\csc.exe
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\roslyn\vbc.exe
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\LURecCenterWeb.UI.dll.config
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\LURecCenterWeb.UI.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\LURecCenterWeb.UI.pdb
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Antlr3.Runtime.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\EntityFramework.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\LURecCenter.BAL.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\LURecCenter.Entity.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AI.Web.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Newtonsoft.Json.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Owin.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\System.Web.Optimization.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\System.Web.Providers.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\WebGrease.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\LURecCenter.DAL.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\LURecCenter.BAL.pdb
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\LURecCenter.Entity.pdb
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AI.Web.xml
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\System.Web.Optimization.xml
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Antlr3.Runtime.pdb
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Newtonsoft.Json.xml
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\EntityFramework.xml
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\System.Web.Providers.xml
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.xml
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.xml
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\LURecCenter.DAL.pdb
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\obj\Debug\LURecCenterWeb.UI.csprojResolveAssemblyReference.cache
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\obj\Debug\LURecCenterWeb.UI.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\obj\Debug\LURecCenterWeb.UI.pdb
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\ApplicationInsights.config
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\roslyn\csc.exe
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\roslyn\vbc.exe
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\LURecCenterWeb.UI.dll.config
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\LURecCenterWeb.UI.dll
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\LURecCenterWeb.UI.pdb
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Antlr3.Runtime.dll
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\EntityFramework.dll
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\LURecCenter.BAL.dll
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\LURecCenter.Entity.dll
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AI.Web.dll
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.dll
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.dll
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Newtonsoft.Json.dll
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Owin.dll
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\System.Web.Optimization.dll
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\System.Web.Providers.dll
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\WebGrease.dll
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\LURecCenter.DAL.dll
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\LURecCenter.BAL.pdb
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\LURecCenter.Entity.pdb
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AI.Web.xml
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\System.Web.Optimization.xml
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Antlr3.Runtime.pdb
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Newtonsoft.Json.xml
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\EntityFramework.xml
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\System.Web.Providers.xml
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.xml
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.xml
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\bin\LURecCenter.DAL.pdb
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\obj\Debug\LURecCenterWeb.UI.csprojResolveAssemblyReference.cache
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\obj\Debug\LURecCenterWeb.UI.dll
+C:\Users\sandeep.parashar\Downloads\RecCenter Project\RecCenter Project\SmartRecreationalSOL\LURecCenterWeb.UI\obj\Debug\LURecCenterWeb.UI.pdb
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\ApplicationInsights.config
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\roslyn\csc.exe
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\roslyn\vbc.exe
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\roslyn\VBCSCompiler.exe
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\LURecCenterWeb.UI.dll.config
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\LURecCenterWeb.UI.dll
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\LURecCenterWeb.UI.pdb
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Antlr3.Runtime.dll
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\AspNet.ScriptManager.jQuery.dll
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\EntityFramework.dll
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\EntityFramework.SqlServer.dll
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\LURecCenter.BAL.dll
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\LURecCenter.Entity.dll
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AI.Web.dll
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AI.WindowsServer.dll
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.ApplicationInsights.dll
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.dll
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.dll
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.Google.dll
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Newtonsoft.Json.dll
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Owin.dll
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\System.Web.Optimization.dll
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\System.Web.Providers.dll
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\WebGrease.dll
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\LURecCenter.DAL.dll
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\LURecCenter.BAL.pdb
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\LURecCenter.Entity.pdb
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AI.Web.xml
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AI.WindowsServer.xml
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.ApplicationInsights.xml
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\System.Web.Optimization.xml
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Antlr3.Runtime.pdb
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Newtonsoft.Json.xml
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\EntityFramework.xml
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\EntityFramework.SqlServer.xml
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\System.Web.Providers.xml
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.xml
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.xml
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.Google.xml
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\bin\LURecCenter.DAL.pdb
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\obj\Debug\LURecCenterWeb.UI.csprojResolveAssemblyReference.cache
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\obj\Debug\LURecCenterWeb.UI.dll
+C:\Sandeep parashar work\SAMPLE WORK\SmartRecreationalSOL\LURecCenterWeb.UI\obj\Debug\LURecCenterWeb.UI.pdb
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\ApplicationInsights.config
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\roslyn\csc.exe
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\roslyn\vbc.exe
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\LURecCenterWeb.UI.dll.config
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\LURecCenterWeb.UI.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\LURecCenterWeb.UI.pdb
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\Antlr3.Runtime.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\EntityFramework.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\LURecCenter.BAL.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\LURecCenter.Entity.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\Microsoft.AI.Web.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\Microsoft.Owin.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\Newtonsoft.Json.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\Owin.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\System.Web.Optimization.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\System.Web.Providers.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\WebGrease.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\LURecCenter.DAL.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\LURecCenter.BAL.pdb
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\LURecCenter.Entity.pdb
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\Microsoft.AI.Web.xml
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\System.Web.Optimization.xml
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\Antlr3.Runtime.pdb
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\Newtonsoft.Json.xml
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\EntityFramework.xml
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\System.Web.Providers.xml
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\Microsoft.Owin.xml
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.xml
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\bin\LURecCenter.DAL.pdb
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\obj\Debug\LURecCenterWeb.UI.csprojResolveAssemblyReference.cache
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\obj\Debug\LURecCenterWeb.UI.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\LURecCenterWeb.UI\obj\Debug\LURecCenterWeb.UI.pdb
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\ApplicationInsights.config
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\roslyn\csc.exe
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\roslyn\vbc.exe
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\LURecCenterWeb.UI.dll.config
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\LURecCenterWeb.UI.dll
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\LURecCenterWeb.UI.pdb
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Antlr3.Runtime.dll
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\EntityFramework.dll
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\LURecCenter.BAL.dll
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\LURecCenter.Entity.dll
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AI.Web.dll
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.dll
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.dll
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Newtonsoft.Json.dll
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Owin.dll
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\System.Web.Optimization.dll
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\System.Web.Providers.dll
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\WebGrease.dll
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\LURecCenter.DAL.dll
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\LURecCenter.BAL.pdb
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\LURecCenter.Entity.pdb
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AI.Web.xml
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\System.Web.Optimization.xml
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Antlr3.Runtime.pdb
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Newtonsoft.Json.xml
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\EntityFramework.xml
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\System.Web.Providers.xml
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.xml
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.xml
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\bin\LURecCenter.DAL.pdb
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\obj\Debug\LURecCenterWeb.UI.csprojResolveAssemblyReference.cache
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\obj\Debug\LURecCenterWeb.UI.dll
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\obj\Debug\LURecCenterWeb.UI.pdb
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\obj\Debug\Interop.MODI.dll
+C:\Users\ojusa_000\Desktop\SmartRecreationalSOL\LURecCenterWeb.UI\obj\Debug\LURecCenterWeb.UI.csproj.ResolveComReference.cache

@@ -1,0 +1,5 @@
+C:\Sandeep parashar work\Project work\SmartRecreationalSOL\SmartRecreational.Entity\bin\Debug\SmartRecreational.Entity.dll
+C:\Sandeep parashar work\Project work\SmartRecreationalSOL\SmartRecreational.Entity\bin\Debug\SmartRecreational.Entity.pdb
+C:\Sandeep parashar work\Project work\SmartRecreationalSOL\SmartRecreational.Entity\obj\Debug\SmartRecreational.Entity.csprojResolveAssemblyReference.cache
+C:\Sandeep parashar work\Project work\SmartRecreationalSOL\SmartRecreational.Entity\obj\Debug\SmartRecreational.Entity.dll
+C:\Sandeep parashar work\Project work\SmartRecreationalSOL\SmartRecreational.Entity\obj\Debug\SmartRecreational.Entity.pdb

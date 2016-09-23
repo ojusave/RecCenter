@@ -1,0 +1,12 @@
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreational.DAL\bin\Release\LURecCenter.DAL.dll.config
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreational.DAL\bin\Release\LURecCenter.DAL.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreational.DAL\bin\Release\LURecCenter.DAL.pdb
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreational.DAL\bin\Release\EntityFramework.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreational.DAL\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreational.DAL\bin\Release\LURecCenter.Entity.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreational.DAL\bin\Release\LURecCenter.Entity.pdb
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreational.DAL\bin\Release\EntityFramework.xml
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreational.DAL\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreational.DAL\obj\Release\LURecCenter.DAL.csprojResolveAssemblyReference.cache
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreational.DAL\obj\Release\LURecCenter.DAL.dll
+C:\Users\ojusa_000\Downloads\RecCenter Project\SmartRecreational.DAL\obj\Release\LURecCenter.DAL.pdb

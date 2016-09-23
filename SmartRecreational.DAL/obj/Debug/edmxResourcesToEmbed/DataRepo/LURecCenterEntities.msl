@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="LURecCenterModelStoreContainer" CdmEntityContainer="LURecCenterEntities2">
+    <EntitySetMapping Name="tblEquipments">
+      <EntityTypeMapping TypeName="LURecCenterModel.tblEquipment">
+        <MappingFragment StoreEntitySet="tblEquipment">
+          <ScalarProperty Name="EquipmentID" ColumnName="EquipmentID" />
+          <ScalarProperty Name="EquipmentName" ColumnName="EquipmentName" />
+          <ScalarProperty Name="EquipmentBARCode" ColumnName="EquipmentBARCode" />
+          <ScalarProperty Name="EquipmentBrand" ColumnName="EquipmentBrand" />
+          <ScalarProperty Name="EquipmentType" ColumnName="EquipmentType" />
+          <ScalarProperty Name="EquipmentAddDate" ColumnName="EquipmentAddDate" />
+          <ScalarProperty Name="EquipmentUserCount" ColumnName="EquipmentUserCount" />
+          <ScalarProperty Name="EquipmentPrice" ColumnName="EquipmentPrice" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="CreatedON" ColumnName="CreatedON" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TblIssuedEquipments">
+      <EntityTypeMapping TypeName="LURecCenterModel.TblIssuedEquipment">
+        <MappingFragment StoreEntitySet="TblIssuedEquipment">
+          <ScalarProperty Name="IssueID" ColumnName="IssueID" />
+          <ScalarProperty Name="EquipmentID" ColumnName="EquipmentID" />
+          <ScalarProperty Name="UserID" ColumnName="UserID" />
+          <ScalarProperty Name="IssueOn" ColumnName="IssueOn" />
+          <ScalarProperty Name="ReturnOn" ColumnName="ReturnOn" />
+          <ScalarProperty Name="IsReturn" ColumnName="IsReturn" />
+          <ScalarProperty Name="IssueComments" ColumnName="IssueComments" />
+          <ScalarProperty Name="RetComments" ColumnName="RetComments" />
+          <ScalarProperty Name="Attribute1" ColumnName="Attribute1" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TblLoggedInUsers">
+      <EntityTypeMapping TypeName="LURecCenterModel.TblLoggedInUser">
+        <MappingFragment StoreEntitySet="TblLoggedInUser">
+          <ScalarProperty Name="SessionId" ColumnName="SessionId" />
+          <ScalarProperty Name="Userid" ColumnName="Userid" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="LoginTime" ColumnName="LoginTime" />
+          <ScalarProperty Name="LoginDate" ColumnName="LoginDate" />
+          <ScalarProperty Name="LoggedOuttime" ColumnName="LoggedOuttime" />
+          <ScalarProperty Name="LoggedOutdate" ColumnName="LoggedOutdate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblMasterUserRoles">
+      <EntityTypeMapping TypeName="LURecCenterModel.tblMasterUserRole">
+        <MappingFragment StoreEntitySet="tblMasterUserRoles">
+          <ScalarProperty Name="RoleId" ColumnName="RoleId" />
+          <ScalarProperty Name="RoleName" ColumnName="RoleName" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblMstrDepartments">
+      <EntityTypeMapping TypeName="LURecCenterModel.tblMstrDepartment">
+        <MappingFragment StoreEntitySet="tblMstrDepartment">
+          <ScalarProperty Name="DeptId" ColumnName="DeptId" />
+          <ScalarProperty Name="DeptName" ColumnName="DeptName" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblMstrEquipmentTypes">
+      <EntityTypeMapping TypeName="LURecCenterModel.tblMstrEquipmentType">
+        <MappingFragment StoreEntitySet="tblMstrEquipmentType">
+          <ScalarProperty Name="TypeID" ColumnName="TypeID" />
+          <ScalarProperty Name="TypeName" ColumnName="TypeName" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TblmstrUserTypes">
+      <EntityTypeMapping TypeName="LURecCenterModel.TblmstrUserType">
+        <MappingFragment StoreEntitySet="TblmstrUserType">
+          <ScalarProperty Name="TypeID" ColumnName="TypeID" />
+          <ScalarProperty Name="TypeName" ColumnName="TypeName" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TblPersons">
+      <EntityTypeMapping TypeName="LURecCenterModel.TblPerson">
+        <MappingFragment StoreEntitySet="TblPerson">
+          <ScalarProperty Name="PersonId" ColumnName="PersonId" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="PostalCode" ColumnName="PostalCode" />
+          <ScalarProperty Name="DOB" ColumnName="DOB" />
+          <ScalarProperty Name="PersonType" ColumnName="PersonType" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="Createdon" ColumnName="Createdon" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+          <ScalarProperty Name="IdNumber" ColumnName="IdNumber" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TblShifts">
+      <EntityTypeMapping TypeName="LURecCenterModel.TblShift">
+        <MappingFragment StoreEntitySet="TblShift">
+          <ScalarProperty Name="ShiftId" ColumnName="ShiftId" />
+          <ScalarProperty Name="ShiftName" ColumnName="ShiftName" />
+          <ScalarProperty Name="ShiftComment" ColumnName="ShiftComment" />
+          <ScalarProperty Name="ShiftDate" ColumnName="ShiftDate" />
+          <ScalarProperty Name="Avilable" ColumnName="Avilable" />
+          <ScalarProperty Name="PickedByUser" ColumnName="PickedByUser" />
+          <ScalarProperty Name="PickedOn" ColumnName="PickedOn" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="Shiftto" ColumnName="Shiftto" />
+          <ScalarProperty Name="Shiftfrom" ColumnName="Shiftfrom" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TblUsers">
+      <EntityTypeMapping TypeName="LURecCenterModel.TblUser">
+        <MappingFragment StoreEntitySet="TblUser">
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+          <ScalarProperty Name="PersonID" ColumnName="PersonID" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="CreatedOn" ColumnName="CreatedOn" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+          <ScalarProperty Name="RoleID" ColumnName="RoleID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TblWritesUps">
+      <EntityTypeMapping TypeName="LURecCenterModel.TblWritesUp">
+        <MappingFragment StoreEntitySet="TblWritesUp">
+          <ScalarProperty Name="WritesupID" ColumnName="WritesupID" />
+          <ScalarProperty Name="WritesUpText" ColumnName="WritesUpText" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+          <ScalarProperty Name="CreatedOn" ColumnName="CreatedOn" />
+          <ScalarProperty Name="TOUser" ColumnName="TOUser" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="SpGetIssuedequipment" FunctionName="LURecCenterModel.Store.SpGetIssuedequipment">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="LURecCenterModel.SpGetIssuedequipment_Result">
+          <ScalarProperty Name="IssueID" ColumnName="IssueID" />
+          <ScalarProperty Name="IssueOn" ColumnName="IssueOn" />
+          <ScalarProperty Name="IssueComments" ColumnName="IssueComments" />
+          <ScalarProperty Name="PersonFullName" ColumnName="PersonFullName" />
+          <ScalarProperty Name="mailID" ColumnName="mailID" />
+          <ScalarProperty Name="EquipmentName" ColumnName="EquipmentName" />
+          <ScalarProperty Name="EquipmentBrand" ColumnName="EquipmentBrand" />
+          <ScalarProperty Name="EquipmentBARCode" ColumnName="EquipmentBARCode" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="SpInsertUser" FunctionName="LURecCenterModel.Store.SpInsertUser" />
+  </EntityContainerMapping>
+</Mapping>
